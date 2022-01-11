@@ -1,2 +1,2 @@
 # hello-world
-a commit has to be made
+a commit has to be made twice
